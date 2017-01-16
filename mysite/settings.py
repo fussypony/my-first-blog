@@ -25,7 +25,7 @@ SECRET_KEY = 'kmc!1&m7vch=!y=(x(v-=vmxd5lfr%9kzr4=n(t0@hk=5g^w@m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['fussypony.pythonanywhere.com',]
+ALLOWED_HOSTS = ['127.0.0.1','fussypony.pythonanywhere.com',]
 
 
 # Application definition
